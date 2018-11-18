@@ -1,4 +1,7 @@
 <h1>Prova Processamento Digital de Imagens</h1>
+<h2>Transformada de Forier</h2>
+<p>Migra do confuso domínio do tempo para o domínio da frequência que é de fácil compreensão.</p>
+<p>A Transformada de Forier é capaz de separar totalmente as feições de baixa, média e alta frequências.</p>
 <h2>Processamento de imagens no domínio da frequencia:</h2>
 <h4>Histórico</h4>
 <p>matemático e fisíco francês Jean Baptiste Joseph Fourier(1768-1830) demonstrou que qualquer forma de onda pode ser representada por uma somátoria de senoides e cossénoides de diferentes frequências, amplitudes e fases.</p>
